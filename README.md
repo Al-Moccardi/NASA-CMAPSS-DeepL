@@ -30,13 +30,13 @@ EDA
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lcxx4sd7ZbBMeA2bPLIBfU8WEecqNxQq?usp=drive_link)
 
 1D-CNN:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dsk2yj3YxytGyOUYRkwsJZfev2POU46W)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1knkH7Oz_FysNQuJJOoP_rpx1feHEBEba?usp=drive_link)
 
 LSTM
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dsk2yj3YxytGyOUYRkwsJZfev2POU46W)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DKRShd10M_hjmiUv0IagCU-2zV4gqPAu?usp=drive_link)
 
 ABGRU
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dsk2yj3YxytGyOUYRkwsJZfev2POU46W)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19IntflwfVQ_bmGKempFigxdJjUVMqtiL?usp=drive_link)
 
 The results clearly shows advancements with the usage of Attention mechanism in regression tasks for Time series analysis
 
