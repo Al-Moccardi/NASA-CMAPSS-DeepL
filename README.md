@@ -10,18 +10,28 @@ The ability to predict the remaining useful lifetime (RUL) of components, known 
 
 Firstly, an Exploratory Data analysis of the popular dataset N-CMAPSS is conducted then a Remaining useful life prediction (RUL) using Piecewise Linear degradation model through three different 'classical' methodologies is implemented.
 
+Links to the colab: 
+
+
 Exploratory data analysis:
+
 -Inspection
+
 -Statistical data analysis
+
 -Survival Analysis
+
 -Stationarity Analysis (FD002-FD004)
+
 -Perturbation Analysis (FD001-FD003)
+EDA
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lcxx4sd7ZbBMeA2bPLIBfU8WEecqNxQq?usp=drive_link)
+
 
 During the EDA an unsupervised methodology is applied is conducted on multimodal datasets (FD002-FD004) using DBSCAN (Density-Based Spatial Clustering of Applications with Noise) for Anomaly detection.
 ![Screenshot 2023-11-07 203706](https://github.com/Al-Moccardi/NASA-CMAPSS-DeepL/assets/150179413/ecd8609f-6b61-4ae0-b11b-bb02fed78044)
 
-
-Specifically three algorithm will be used and results are compared:
+For the prediction task three specific algorithm are selected, trained the results are compared:
 
 - LSTM
 - ABGRU (Attention Based Gated Recurrent Unit)
@@ -30,11 +40,7 @@ Specifically three algorithm will be used and results are compared:
 
 ![Screenshot 2023-11-07 193316](https://github.com/Al-Moccardi/NASA-CMAPSS-DeepL/assets/150179413/09d8d558-4166-450d-9d95-5b4068398ab6)
 
-Links to the colabs: 
-
-
-EDA
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lcxx4sd7ZbBMeA2bPLIBfU8WEecqNxQq?usp=drive_link)
+Links to the colab: 
 
 1D-CNN:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1knkH7Oz_FysNQuJJOoP_rpx1feHEBEba?usp=drive_link)
