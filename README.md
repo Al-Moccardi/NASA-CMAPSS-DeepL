@@ -24,7 +24,7 @@ Firstly, an Exploratory Data analysis of the popular dataset N-CMAPSS is conduct
 -Perturbation Analysis (FD001-FD003)
 
 
-Links to EDA in colab (running through GDrive): 
+Links to EDA in colab: 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lcxx4sd7ZbBMeA2bPLIBfU8WEecqNxQq?usp=drive_link)
 
