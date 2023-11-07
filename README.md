@@ -1,5 +1,5 @@
 # NASA-CMAPSS-DeepL
-
+--- 
 ## Introduction:
 The ability to predict the remaining useful lifetime (RUL) of components, known as prognostics, plays a crucial role in intelligent maintenance systems. However, developing data-driven prognostics models often requires run-to-failure datasets, which are typically scarce in real-world applications due to the infrequent occurrence of failures in safetycritical systems. In order to facilitate the advancement of prognostics methods. This work delves into the realm of predictive maintenance, investigating state-of-the-art techniques and leveraging the CMAPP -NASA dataset to unravel valuable insights and advancements in fault detection and health analysis.
 
@@ -24,7 +24,9 @@ Exploratory data analysis:
 -Stationarity Analysis (FD002-FD004)
 
 -Perturbation Analysis (FD001-FD003)
+
 EDA
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lcxx4sd7ZbBMeA2bPLIBfU8WEecqNxQq?usp=drive_link)
 
 
