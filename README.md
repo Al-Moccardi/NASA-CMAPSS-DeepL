@@ -27,7 +27,7 @@ Links to the colabs:
 
 
 EDA
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dsk2yj3YxytGyOUYRkwsJZfev2POU46W)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lcxx4sd7ZbBMeA2bPLIBfU8WEecqNxQq?usp=drive_link)
 
 1D-CNN:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dsk2yj3YxytGyOUYRkwsJZfev2POU46W)
