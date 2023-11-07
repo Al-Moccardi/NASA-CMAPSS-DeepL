@@ -1,5 +1,9 @@
 # NASA-CMAPSS-DeepL
-Exploratory Data Analysis of the popular dataset N-CMAPSS and Remaining useful life prediction (RUL) using Piecewise Linear degradation model through three different 'classical' methodologies.
+
+## Introduction:
+The ability to predict the remaining useful lifetime (RUL) of components, known as prognostics, plays a crucial role in intelligent maintenance systems. However, developing data-driven prognostics models often requires run-to-failure datasets, which are typically scarce in real-world applications due to the infrequent occurrence of failures in safetycritical systems. In order to facilitate the advancement of prognostics methods. This work delves into the realm of predictive maintenance, investigating state-of-the-art techniques and leveraging the CMAPP -NASA dataset to unravel valuable insights and advancements in fault detection and health analysis.
+
+Firstly, an Exploratory Data Analysis of the popular dataset N-CMAPSS is conducted then a Remaining useful life prediction (RUL) using Piecewise Linear degradation model through three different 'classical' methodologies is implemented.
 
 ![Screenshot 2023-11-07 203510](https://github.com/Al-Moccardi/NASA-CMAPSS-DeepL/assets/150179413/57d696d8-e948-4b35-9b51-3cb90c2070fd)
 
@@ -10,7 +14,7 @@ Exploratory data analysis:
 -Stationarity Analysis (FD002-FD004)
 -Perturbation Analysis (FD001-FD003)
 
-Moreover an Anomaly detection is conducted on multimodal datasets (FD002-FD004) using DBSCAN (Density-Based Spatial Clustering of Applications with Noise) 
+During the EDA an unsupervised methodology is applied is conducted on multimodal datasets (FD002-FD004) using DBSCAN (Density-Based Spatial Clustering of Applications with Noise) for Anomaly detection.
 ![Screenshot 2023-11-07 203706](https://github.com/Al-Moccardi/NASA-CMAPSS-DeepL/assets/150179413/ecd8609f-6b61-4ae0-b11b-bb02fed78044)
 
 
