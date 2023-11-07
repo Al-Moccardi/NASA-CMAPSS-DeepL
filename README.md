@@ -24,12 +24,17 @@ Specifically three algorithm will be used and results are compared:
 ![Screenshot 2023-11-07 193316](https://github.com/Al-Moccardi/NASA-CMAPSS-DeepL/assets/150179413/09d8d558-4166-450d-9d95-5b4068398ab6)
 
 Links to the colabs: 
-EDA:
+
+
+EDA
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dsk2yj3YxytGyOUYRkwsJZfev2POU46W]
+
 1D-CNN:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dsk2yj3YxytGyOUYRkwsJZfev2POU46W]
+
 LSTM
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dsk2yj3YxytGyOUYRkwsJZfev2POU46W]
+
 ABGRU
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dsk2yj3YxytGyOUYRkwsJZfev2POU46W]
 
