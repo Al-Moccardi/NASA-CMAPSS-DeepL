@@ -26,7 +26,8 @@ Firstly, an Exploratory Data analysis of the popular dataset N-CMAPSS is conduct
 
 Links to EDA in colab: 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lcxx4sd7ZbBMeA2bPLIBfU8WEecqNxQq?usp=drive_link)
+pt1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n87xl6J7QOSoFc-cXJKB0uaFy60m5n8w?usp=drive_link)
+pt2 : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lcxx4sd7ZbBMeA2bPLIBfU8WEecqNxQq?usp=drive_link)
 
 ### Outlier detection through DBSCAN
 During the EDA an unsupervised methodology is applied is conducted on multimodal datasets (FD002-FD004) using DBSCAN (Density-Based Spatial Clustering of Applications with Noise) for Anomaly detection.
